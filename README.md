@@ -17,4 +17,4 @@ Program-7: Text to Speech Application
 
 Program-8: Call and Number Save Application
 
-For any Query: nithingowda021@vvce.ac.in
+For any Query: nithingowda021@vvce.ac.in / ushacs@vvce.ac.in
